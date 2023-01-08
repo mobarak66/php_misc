@@ -1,0 +1,5 @@
+1. Small To Big nunmber print in series
+2. Big To Small nunmber print in series
+3. Find out odd or even number
+4. Find out odd or even number form series
+5. Total Charater & Total Word
